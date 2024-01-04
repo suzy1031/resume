@@ -2,6 +2,8 @@
 
 ## 基本情報
 
+**フロントエンドエンジニア**
+
 | key      | value                       |
 | -------- | --------------------------- |
 | 氏名     | 菅原 康平（Sugawara Kohei） |
@@ -58,6 +60,24 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
+---
+
+## 意欲･興味
+
+WIP
+
+---
+
+## この先やってみたいこと
+
+WIP
+
+---
+
+## 希望条件
+
+- 子どもが小さいため､フルリモートでの勤務を希望します(月数回の出社は可)
 
 ---
 
