@@ -13,9 +13,26 @@
 
 ---
 
-## 経歴サマリ
+## 技術スタック
 
-現在､エンジニア 5 年目､フロントエンジニアは 4 年目｡新卒から 2 社､小売業で店長として店舗運営に従事したのち､エンジニアに転職｡エンジニア転職後は､SES としてバックエンドは Java や Ruby､フロントエンドは React を中心に､web アプリケーション､ios/Android アプリ開発に従事｡自身の小売業時代の経験を活かすため､サービス業を中心に､多店舗展開している企業向け動画型実行支援プラットフォームを提供する現職にフロントエンジニアとして転職｡開発･運用だけではなく､ドメインエキスパートや､PM､PdM として､プロジェクト全体の管理や､要件定義､仕様､設計の策定を行う｡2 つの新規プロダクト開発や､リアーキテクチャにおける技術選定､ジュニアエンジニア育成､web アクセシビリティ改善や､社内用 UI モジュールの開発などに従事
+### 言語
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
+</p>
+
+### フレームワーク･その他
+
+<p>
+  <img alt="React" src="https://shields.io/badge/React-black?logo=react&style=flat-square" />
+  <img alt="Next" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ---
 
@@ -56,26 +73,31 @@
 
 ---
 
-## 技術スタック
+## この先やってみたいこと
 
-### 言語
+- BFF を使った開発
+- NoSQL を使った開発
+- `npm workspace`や`lerna`などを使った monorepo 開発
+- アクセシビリティ/ユーザビリティ向上･改善を推進する開発
+- ミドルウェアのバージョンアッププロセスなど､ノウハウの体系化とナレッジ共有
+- デザイナーと協働し､デザインガイド/アクセシビリティガイド策定
+- 開発者体験向上や業務効率化に向けた自動化を推進する開発
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
-</p>
+---
 
-### フレームワーク･その他
+## 意欲･興味
 
-<p>
-  <img alt="React" src="https://shields.io/badge/React-black?logo=react&style=flat-square" />
-  <img alt="Next" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-</p>
+- レガシー産業の現場を､テクノロジーを通して変革する
+- ユーザーに付加価値を提供できるプロダクト開発 ≠ ソフトウェア開発
+- 透明性が高いプロセス作りと､それを運用する仕組み作り
+- 組織内のドキュメンテーション文化の醸成
+- チームの自己組織化
+
+---
+
+## 経歴サマリ
+
+現在､エンジニア 5 年目､フロントエンジニアは 4 年目｡新卒から 2 社､小売業で店長として店舗運営に従事したのち､エンジニアに転職｡エンジニア転職後は､SES としてバックエンドは Java や Ruby､フロントエンドは React を中心に､web アプリケーション､ios/Android アプリ開発に従事｡自身の小売業時代の経験を活かすため､サービス業を中心に､多店舗展開している企業向け動画型実行支援プラットフォームを提供する現職にフロントエンジニアとして転職｡開発･運用だけではなく､ドメインエキスパートや､PM､PdM として､プロジェクト管理や､要件定義､仕様､設計の策定を行う｡2 つの新規プロダクト開発や､技術選定､ジュニアエンジニア育成､社内用 UI モジュールの開発などに従事
 
 ---
 
@@ -237,18 +259,6 @@
   - 婦人服・紳士服・雑貨等の企画・製造及び卸・小売
 - 業務内容：
   - 店長として店舗運営全般と人材育成などのマネジメント
-
----
-
-## 意欲･興味
-
-WIP
-
----
-
-## この先やってみたいこと
-
-WIP
 
 ---
 
