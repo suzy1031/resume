@@ -1,0 +1,12 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "職務経歴書",
+  "scripts": {
+    "pdf": "npx md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
+  },
+  "author": "Kohei Sugawara <kohei.sugawara.1031@gmail.com>",
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
