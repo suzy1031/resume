@@ -7,7 +7,7 @@ module.exports = {
   },
   pdf_options: {
     format: "A4",
-    margin: "30mm 20mm",
+    margin: "20mm 20mm",
     printBackground: true,
     headerTemplate:
       "<style>\n  section {\n    margin: 0 auto;\n    font-size: 9px;\n  }\n</style>",
