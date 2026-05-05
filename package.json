@@ -7,6 +7,6 @@
   },
   "author": "Kohei Sugawara <kohei.sugawara.1031@gmail.com>",
   "dependencies": {
-    "md-to-pdf": "^5.2.4"
+    "md-to-pdf": "5.2.5"
   }
 }
