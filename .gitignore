@@ -3,3 +3,5 @@ node_modules
 **/customs/
 **/*.pdf
 .idea
+**/dmm/*.md
+**/.playwright-cli
